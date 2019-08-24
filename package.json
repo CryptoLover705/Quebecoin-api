@@ -1,0 +1,25 @@
+{
+  "name": "Quebecoin-api",
+  "version": "0.7.5",
+  "description": "QJSI: Quebecoin Javascript Interface - RPC/API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CryptoLover507/Quebecoin-api.git"
+  },
+  "keywords": [
+    "quebecoin",
+    "cryptocurrency",
+    "rpc",
+    "api"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CryptoLover507/Quebecoin-api/issues"
+  },
+  "homepage": "https://github.com/CryptoLover507/Quebecoin-api#readme"
+}
